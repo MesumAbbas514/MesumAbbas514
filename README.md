@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MERN Stack Devolopment
 - 💞️ I’m looking to collaborate on Web and App Development and other projects
 - 📫 How to reach me... text me on my whatsapp +923554372814
-- 😄 Pronouns: Mesii or MT
+- 😄 Pronouns: Mesii or M.T
 - ⚡ Fun fact: Coder,Circketer,Athlete,Traveller....
 
 <!---
